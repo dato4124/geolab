@@ -1,0 +1,47 @@
+.starth{
+color: rgb(0, 0, 0);
+margin-left: 20px;
+color: rgb(255, 0, 0);
+}
+
+.startdiv{
+    width: 400px;
+    border: solid rgb(255, 208, 0) 1px;
+    margin-left: 50px;
+    color: rgb(0, 0, 0);
+   
+}
+
+.nexth{
+    margin-left: 630px;
+    width: 150px;
+    color: rgb(247, 0, 255);
+    
+}
+
+.divmedias{
+    width: 200px;
+    height: 170px;
+    margin-left: 630px;
+    border: solid rgb(94, 255, 0) 1px;
+    color: rgb(255, 0, 0);
+    
+}
+
+
+.firsth{
+    margin-left: 840px;
+    margin-top:1px;
+    color: rgb(255, 217, 0);
+}
+
+.firstdiv{
+    margin-left: 50px;
+    width: 300px;
+    height: 300px;
+    margin-left: 840px;
+    border: solid rgb(255, 255, 255) 1px;
+    margin-top:1px;
+    color: rgb(0, 4, 255);
+}
+
