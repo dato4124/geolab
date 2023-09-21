@@ -12,7 +12,7 @@
 }
 
 .ds1{
-    width: 1400px;
+    width: 100%;
     height: 100vh;
     background-image: linear-gradient(rgba(231, 247, 11, 0.212),rgba(183, 185, 97, 0.308)),url(razones-agencia-de-viajes-corporativos.jpeg);
     background-size: cover;
